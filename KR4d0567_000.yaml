@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0567/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0567_WYG_000-1a, image: WYG1219/WYG1219-0123a.png}
+body:
+  text: 桐山老農集别集類四元提要臣等謹按桐山老農集四卷元魯貞撰貞字起元自號桐山老農開化人集中萬青軒記自稱曲阜人蓋曲阜其祖貫也貞生當元末明初是集中文作於元者皆題至正年號其入明以後惟題甲子有栗里抗節之思焉凡文三卷詩一卷詩不出元末之格且間有纍句蓋非所長其文亦聞見頗狹或失考正如武安王廟記迎神詞中有蘭佩下兮桂旗揚乘赤兔兮從周倉句考周倉之名不見史傳是直以委巷俚語鐫刻金石殊乖大雅然人品既髙胸懷夷曠一切塵容俗狀無由入其筆端故稱臆而談自饒清韵譬諸深山幽谷老柏蒼松雖不中繩規而天然有出塵之意其故正不在語言文字間矣乾隆四十三年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a1059b49974ab99b1e5c3039c0b057814b3cb177bb71de9a28fdc7efcbedbb54
+metadata:
+  title: 桐山老農集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:14:44.992789'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0567/KR4d0567_000.txt
+hash: sha256:c719493015ed198c75d9607f4db71bf18bc467ea05c9ea27b8209373cf0b0c89
